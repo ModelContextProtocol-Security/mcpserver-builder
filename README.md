@@ -1,215 +1,214 @@
 # MCP Server Builder
 
-**Development toolkit for creating and modifying MCP servers. Provides scaffolding, templates, and guided workflows to build secure, compliant Model Context Protocol servers with built-in security best practices.**
+**MCP development expert and tutor. Teaches users how to build secure, compliant MCP servers, understand development best practices, and make sound architectural decisions while providing practical development guidance and basic scaffolding capabilities.**
 
 ## Overview
 
-MCP Server Builder is a comprehensive development tool that helps users create new MCP servers or modify existing ones to meet specific requirements. Whether you're building a server for a use case identified by mcpserver-finder, addressing security issues discovered by mcpserver-audit, or creating entirely new functionality, this tool provides guided development workflows with security best practices built-in.
+MCP Server Builder is your expert development advisor for creating Model Context Protocol servers. Rather than just being a code generator, it serves as a knowledgeable development tutor who teaches you how to build secure, well-architected MCP servers, understand development best practices, and develop the skills to create quality servers independently.
 
-The tool begins by understanding the user's development objectives—whether creating from scratch, modifying existing servers, fixing security vulnerabilities, or implementing specific features. It then provides appropriate scaffolding, code generation, and validation to ensure the resulting server meets both functional and security requirements.
+The server combines development education with practical building capabilities, helping you understand not just how to write code, but how to make good architectural decisions, implement security best practices, and create maintainable, production-ready servers. It teaches you the development mindset, walks you through design decisions, and helps you build expertise in MCP server development.
 
-## Key Features
+## Expert-Guided Approach
 
-- **Intelligent Code Generation**: Creates secure, compliant MCP server code with best practices built-in
-- **Guided Development Workflows**: Step-by-step processes for different development scenarios
-- **Security-First Architecture**: Integrates security considerations throughout the development process
-- **Template Library**: Comprehensive collection of secure, tested server templates and components
-- **Vulnerability Remediation**: Automated fixes for common security issues identified in audits
-- **Documentation Generation**: Creates comprehensive documentation alongside code
-- **Testing Framework Integration**: Builds servers with integrated testing and validation
+This MCP server is designed as an **expert advisor and tutor** in its domain, with the primary focus on providing guidance, education, and practical recommendations rather than being a comprehensive implementation tool. While it includes enough functional capability to be immediately useful and demonstrate real expertise, the long-term vision is for this server to serve as your domain expert who helps you understand the landscape, evaluate options, and find the right tools for your specific needs. As the MCP ecosystem evolves, this server will learn about new tools and approaches, recommending the best solutions while teaching you how to evaluate and use them effectively. The broader Model Context Protocol Security initiative may also develop comprehensive implementation tools, but these specific repositories are focused on being practical expert guidance systems—combining deep domain knowledge with enough hands-on capability to provide genuine value, not just theoretical advice.
 
-## Goals and Strategies
+## Key Capabilities
 
-### Primary Goals
+### Development Education
+- **Architecture Design Teaching**: Guides you through MCP server architecture decisions and patterns
+- **Security Best Practices**: Teaches secure coding practices and security-by-design principles
+- **Protocol Compliance**: Explains MCP specification requirements and implementation details
+- **Code Quality Instruction**: Shares knowledge about writing maintainable, testable code
+- **Development Methodology**: Teaches structured approaches to server development
 
-1. **Define Clear Development Objectives**: Establish specific goals, requirements, and constraints based on user needs
-2. **Accelerate Secure Development**: Provide scaffolding and templates that incorporate security best practices
-3. **Address Ecosystem Gaps**: Create servers for use cases where no suitable existing servers exist
-4. **Remediate Security Issues**: Fix vulnerabilities and security problems identified in existing servers
-5. **Ensure Protocol Compliance**: Generate servers that fully comply with MCP specifications
-6. **Provide Production-Ready Code**: Create servers suitable for production deployment without additional hardening
-7. **Enable Iterative Development**: Support incremental development and refinement across multiple sessions
+### Practical Building
+- **Basic Scaffolding**: Generates initial server structure and boilerplate code
+- **Template Creation**: Provides starting templates for common server patterns
+- **Code Examples**: Creates illustrative code snippets for specific functionality
+- **Configuration Generation**: Helps create basic server configuration files
+- **Testing Framework Setup**: Provides guidance and basic test structure
 
-### Core Strategies
+### Expert Orchestration
+- **Development Tool Recommendations**: Suggests frameworks, libraries, and development tools
+- **Expert Referrals**: Connects you with specialized development resources and expertise
+- **Methodology Sharing**: Teaches advanced development techniques and patterns
+- **Resource Guidance**: Points you to relevant documentation and learning materials
+- **Community Best Practices**: Shares collective wisdom from the development community
 
-#### 1. Development Scenario Management
-- **New Server Creation**: Full scaffolding for entirely new MCP server implementations
-- **Existing Server Modification**: Guided enhancement of existing servers with new features
-- **Security Remediation**: Automated fixes for vulnerabilities identified by mcpserver-audit
-- **Gap Filling**: Create servers for use cases identified by mcpserver-finder where no solutions exist
-- **Template Customization**: Adapt existing templates to specific requirements and constraints
-- **Integration Enhancement**: Improve compatibility with specific clients or deployment environments
+## Goals and Teaching Approach
 
-#### 2. Security-First Code Generation
-- **Threat Model Integration**: Build servers with specific threat considerations addressed
-- **Input Validation**: Automatic generation of robust input validation and sanitization
-- **Authentication Frameworks**: Secure OAuth and token handling implementations
-- **Authorization Models**: Proper permission and access control implementations
-- **Audit Trail Generation**: Built-in logging and monitoring for security events
-- **Secure Configuration**: Default secure settings and configuration management
+### Primary Educational Goals
 
-#### 3. Comprehensive Development Support
-- **Requirements Analysis**: Transform user needs into technical specifications
-- **Architecture Design**: Create appropriate server architecture for specific use cases
-- **Code Scaffolding**: Generate initial server structure with all necessary components
-- **Feature Implementation**: Build specific tools, resources, and prompts
-- **Testing Integration**: Create comprehensive test suites for functionality and security
-- **Documentation Creation**: Generate technical documentation and user guides
+1. **Develop Architectural Thinking**: Teach users to design well-structured MCP servers
+2. **Build Security Awareness**: Help users understand and implement security best practices
+3. **Foster Quality Mindset**: Educate about code quality, testing, and maintainability
+4. **Promote Protocol Understanding**: Ensure deep comprehension of MCP specifications
+5. **Enable Independent Development**: Provide frameworks for creating servers autonomously
+6. **Build Community Knowledge**: Contribute to collective understanding of MCP development
 
-#### 4. Quality Assurance and Validation
-- **Code Quality Checks**: Automated analysis for best practices and potential issues
-- **Security Validation**: Built-in security testing and vulnerability scanning
+### Teaching Strategies
+
+#### 1. Interactive Development Learning
+- **Architecture Discussions**: Walks you through design decisions and trade-offs
+- **Code Review Sessions**: Provides feedback on code quality and security
+- **Problem-Solving Guidance**: Helps you work through development challenges
+- **Design Pattern Teaching**: Explains when and how to use common patterns
+- **Best Practice Application**: Shows how to apply development best practices
+
+#### 2. Practical Development Application
+- **Real-World Examples**: Uses actual MCP server patterns to illustrate concepts
+- **Case Study Analysis**: Examines both well-designed and problematic implementations
+- **Scenario-Based Learning**: Presents different development contexts and requirements
+- **Hands-On Building**: Provides opportunities to apply learned concepts
+- **Skill Building**: Develops your ability to create quality servers independently
+
+#### 3. Development Knowledge Sharing
+- **Expert Insights**: Provides professional development perspectives and experience
+- **Community Wisdom**: Shares collective knowledge from the development community
+- **Emerging Patterns**: Keeps you informed about new development approaches
+- **Technology Evolution**: Teaches how development practices evolve with the ecosystem
+- **Continuous Learning**: Stays current with development tools and techniques
+
+## Expert Knowledge Areas
+
+### MCP Server Architecture
+- **Protocol Implementation**: Understanding MCP specification requirements and implementation
+- **Security Architecture**: Designing servers with security considerations from the ground up
+- **Performance Patterns**: Creating efficient, scalable server architectures
+- **Error Handling**: Implementing robust error handling and recovery mechanisms
+- **Testing Strategies**: Designing testable server architectures and test suites
+- **Deployment Considerations**: Architecting for different deployment environments
+
+### Development Best Practices
+- **Secure Coding**: Implementing security best practices throughout development
+- **Code Quality**: Writing maintainable, readable, and well-documented code
+- **Testing Methodologies**: Comprehensive testing approaches for MCP servers
+- **Documentation Standards**: Creating clear, useful documentation for servers
+- **Version Control**: Managing code evolution and collaborative development
+- **Dependency Management**: Handling third-party libraries and dependencies securely
+
+### Technology Selection and Integration
+- **Framework Evaluation**: Choosing appropriate frameworks and libraries
+- **Language Considerations**: Understanding trade-offs between different programming languages
+- **Tool Ecosystem**: Leveraging development tools effectively
+- **Integration Patterns**: Connecting servers with external systems and services
+- **Performance Optimization**: Optimizing server performance and resource usage
+- **Monitoring and Observability**: Building servers with operational visibility
+
+## Practical Workflow
+
+### Phase 1: Requirements Analysis and Architecture Design
+1. **Requirements Clarification**: Help you understand and refine your server requirements
+2. **Architecture Education**: Teach architectural principles and patterns for MCP servers
+3. **Technology Selection**: Guide you through choosing appropriate tools and frameworks
+4. **Security Design**: Incorporate security considerations into architectural decisions
+5. **Design Documentation**: Create clear documentation of architectural decisions
+
+### Phase 2: Development Planning and Setup
+1. **Development Environment**: Guide you through setting up a proper development environment
+2. **Project Structure**: Teach you how to organize your server project effectively
+3. **Basic Scaffolding**: Generate initial project structure and boilerplate code
+4. **Testing Framework**: Set up testing infrastructure and teach testing strategies
+5. **Documentation Structure**: Create framework for comprehensive documentation
+
+### Phase 3: Guided Implementation
+1. **Core Development**: Walk you through implementing core server functionality
+2. **Security Implementation**: Teach you how to implement security features properly
+3. **Protocol Compliance**: Ensure your implementation adheres to MCP specifications
+4. **Code Quality**: Provide guidance on writing clean, maintainable code
+5. **Testing Development**: Help you create comprehensive tests for your server
+
+### Phase 4: Validation and Deployment Preparation
+1. **Code Review**: Provide feedback on your implementation and suggest improvements
+2. **Security Validation**: Help you verify that security requirements are met
+3. **Performance Assessment**: Guide you through performance testing and optimization
+4. **Documentation Completion**: Ensure comprehensive documentation is created
+5. **Deployment Planning**: Prepare you for secure deployment and operations
+
+## Basic Functional Capabilities
+
+### Scaffolding Functions
+- **Project Generation**: Creates initial project structure with basic files and directories
+- **Template Creation**: Generates code templates for common server patterns
+- **Configuration Setup**: Creates basic server configuration files and examples
+- **Testing Framework**: Sets up basic testing infrastructure and example tests
+- **Documentation Templates**: Provides templates for comprehensive server documentation
+
+### Development Guidance Functions
+- **Code Analysis**: Basic analysis of code quality and common issues
+- **Security Review**: Fundamental security checks and best practice validation
 - **Protocol Compliance**: Verification of MCP specification adherence
-- **Performance Optimization**: Analysis and optimization of resource usage
-- **Client Compatibility**: Testing with multiple MCP client implementations
-- **Deployment Preparation**: Configuration and deployment guidance
+- **Architecture Review**: Assessment of architectural decisions and patterns
+- **Best Practice Checking**: Validation against development best practices
 
-## Development Scenarios
-
-### Scenario Types
-- **Greenfield Development**: Creating entirely new MCP servers from scratch
-- **Enhancement Projects**: Adding features or capabilities to existing servers
-- **Security Remediation**: Fixing vulnerabilities and security issues
-- **Integration Projects**: Connecting MCP servers to new services or APIs
-- **Performance Optimization**: Improving efficiency and scalability of existing servers
-- **Compliance Updates**: Updating servers to meet new security standards or regulations
-- **Migration Projects**: Converting existing tools to MCP server format
-
-### Approach Customization
-Each scenario receives tailored development approach, appropriate templates, and specific validation criteria based on the project's objectives and constraints.
-
-## High-Level Workflow
-
-### Phase 1: Development Planning and Requirements
-1. **Objective Definition**: Establish development goals - new creation, modification, security fixes, or feature enhancement
-2. **Requirements Gathering**: Understand functional requirements, constraints, and success criteria
-3. **Architecture Planning**: Design appropriate server architecture and component structure
-4. **Security Requirements**: Define security objectives and threat model considerations
-5. **Technology Selection**: Choose appropriate languages, frameworks, and dependencies
-6. **Development Plan**: Create detailed project plan with milestones and validation criteria
-7. **Planning Report**: Generate comprehensive development planning document
-
-### Phase 2: Scaffolding and Initial Development
-1. **Template Selection**: Choose appropriate base templates and components
-2. **Code Generation**: Create initial server structure with security best practices
-3. **Configuration Setup**: Establish secure default configurations and settings
-4. **Testing Framework**: Set up comprehensive testing infrastructure
-5. **Documentation Structure**: Create documentation templates and structure
-6. **Development Checkpoint**: Save initial scaffolding and validate approach
-
-### Phase 3: Feature Implementation
-1. **Core Functionality**: Implement primary server capabilities and features
-2. **Security Integration**: Add authentication, authorization, and input validation
-3. **Error Handling**: Implement robust error handling and recovery mechanisms
-4. **Performance Optimization**: Optimize resource usage and response times
-5. **Integration Testing**: Test with target clients and deployment environments
-6. **Implementation Checkpoint**: Validate completed features and security measures
-
-### Phase 4: Security Hardening and Validation
-1. **Security Review**: Comprehensive security analysis of implemented code
-2. **Vulnerability Testing**: Automated and manual security testing
-3. **Compliance Validation**: Verify adherence to MCP specifications and security standards
-4. **Penetration Testing**: Simulate attack scenarios and validate defenses
-5. **Remediation Implementation**: Fix any identified security issues
-6. **Security Checkpoint**: Document security validation and remediation results
-
-### Phase 5: Documentation and Deployment Preparation
-1. **Technical Documentation**: Create comprehensive technical documentation
-2. **User Guides**: Develop user-friendly setup and usage documentation
-3. **Deployment Guides**: Create deployment and configuration instructions
-4. **Security Documentation**: Document security features and best practices
-5. **Testing Documentation**: Provide testing procedures and validation steps
-6. **Final Checkpoint**: Complete project documentation and delivery package
-
-## Template Library and Components
-
-### Server Templates
-- **Basic Server Template**: Minimal MCP server with essential security features
-- **API Integration Template**: Server for connecting to external APIs with secure authentication
-- **File System Template**: Server for safe file system operations with permission controls
-- **Database Template**: Server for database operations with secure connection handling
-- **Cloud Service Template**: Server for cloud service integration with proper credential management
-- **Custom Tool Template**: Framework for building domain-specific tools and capabilities
-
-### Security Components
-- **Authentication Modules**: OAuth, API key, and token-based authentication implementations
-- **Authorization Frameworks**: Role-based and attribute-based access control systems
-- **Input Validation**: Comprehensive input sanitization and validation libraries
-- **Audit Logging**: Security event logging and monitoring components
-- **Configuration Management**: Secure configuration handling and validation
-- **Error Handling**: Secure error handling that prevents information leakage
-
-### Integration Components
-- **Client Compatibility**: Components for compatibility with popular MCP clients
-- **Protocol Implementation**: Complete MCP protocol handling and compliance
-- **Testing Utilities**: Comprehensive testing frameworks and validation tools
-- **Documentation Generators**: Automated documentation creation tools
-- **Deployment Helpers**: Configuration and deployment automation tools
-- **Monitoring Integration**: Performance and security monitoring components
-
-## Context Resilience
-
-When handling large development sessions that may exceed context limits, the tool:
-1. **Incremental Development**: Saves progress and code artifacts at each development phase
-2. **Checkpoint Strategy**: Maintains detailed development logs and decision history
-3. **Resumable Sessions**: Supports continuation of development across multiple sessions
-4. **State Preservation**: Preserves all code, configuration, and development context
-5. **Methodology Continuity**: Ensures consistent development approach when resuming
-6. **Progress Tracking**: Maintains clear visibility into completed vs. remaining development tasks
-7. **Version Control**: Tracks all changes and iterations for rollback and comparison
+### Educational Functions
+- **Interactive Tutorials**: Guided learning sessions for specific development topics
+- **Code Examples**: Illustrative code snippets for common functionality
+- **Design Pattern Teaching**: Explanation and application of relevant design patterns
+- **Problem-Solving**: Guided assistance with development challenges
+- **Skill Assessment**: Evaluation of development knowledge and identification of gaps
 
 ## Integration with Ecosystem
 
-### Input Sources
-- **mcpserver-finder**: Import gap analysis and requirements from discovery sessions
-- **mcpserver-audit**: Import security findings and remediation requirements
-- **User Requirements**: Direct development requests with specific objectives
-- **Existing Servers**: Modify and enhance existing MCP server implementations
-- **Community Needs**: Address commonly requested features and capabilities
+### Learning from Other Experts
+- **mcpserver-finder**: Understand what makes servers discoverable and well-documented
+- **mcpserver-audit**: Incorporate security requirements and vulnerability prevention
+- **mcpserver-operator**: Learn about operational requirements and deployment considerations
+- **vulnerability-db**: Access knowledge about common vulnerabilities to prevent
+- **audit-db**: Learn from community development experiences and quality assessments
 
-### Output Destinations
-- **Code Repositories**: Generated server code with full documentation
-- **audit-db**: Record security measures and validation results
-- **vulnerability-db**: Document security fixes and remediation approaches
-- **User Delivery**: Provide complete, deployment-ready server packages
-- **Template Library**: Contribute new templates and components to the ecosystem
+### Teaching Preparation for Next Steps
+- **Security Readiness**: Prepare servers for security evaluation and validation
+- **Operational Planning**: Set up users for successful deployment and maintenance
+- **Community Integration**: Ensure servers are ready for community use and contribution
+- **Quality Assurance**: Prepare servers for quality assessment and improvement
 
-## Quality Assurance
+## Expert Development and Learning
 
-### Code Quality Standards
-- **Security Best Practices**: All generated code follows established security guidelines
-- **Code Style Consistency**: Consistent formatting and structure across all generated code
-- **Documentation Standards**: Comprehensive documentation for all components and features
-- **Testing Coverage**: Extensive test coverage for functionality and security
-- **Performance Standards**: Optimized code that meets performance requirements
+### Continuous Development Knowledge Updates
+- **Framework Evolution**: Stay current with MCP framework and library developments
+- **Security Updates**: Monitor new security threats and prevention techniques
+- **Tool Evolution**: Learn about new development tools and techniques
+- **Community Engagement**: Incorporate insights from developers and users
+- **Best Practice Evolution**: Adapt guidance based on emerging patterns and lessons
 
-### Validation Processes
-- **Automated Testing**: Comprehensive test suite execution before delivery
-- **Security Validation**: Automated security scanning and manual review
-- **Protocol Compliance**: Verification of MCP specification adherence
-- **Client Compatibility**: Testing with multiple MCP client implementations
-- **Deployment Testing**: Validation in realistic deployment environments
+### Teaching Methodology Improvement
+- **Learning Assessment**: Evaluate how well users develop server development skills
+- **Approach Refinement**: Improve development education methods based on user success
+- **Curriculum Development**: Enhance development education content and progression
+- **Feedback Integration**: Incorporate user feedback into teaching approaches
+- **Skill Development**: Better understanding of development knowledge gaps and needs
 
-## File System Management
+## Development Scenarios
 
-**TBD** - Code organization, project structure, and artifact management to be determined based on implementation requirements.
+### Development Types
+- **New Server Creation**: Building entirely new MCP servers from scratch
+- **Server Enhancement**: Adding features or capabilities to existing servers
+- **Security Remediation**: Fixing security issues and vulnerabilities
+- **Performance Optimization**: Improving server efficiency and scalability
+- **Protocol Updates**: Updating servers to meet new MCP specification requirements
 
-## Usage
+### Development Approaches
+Each development scenario receives tailored guidance, appropriate templates, and specific validation criteria based on the development objectives and requirements.
+
+## Usage and Access
 
 This MCP server is designed to be used with MCP-compatible clients and requires:
-- **File System Access**: For code generation, project management, and artifact storage
-- **Network Access**: For dependency management and external service integration
-- **Development Tools**: Integration with code analysis, testing, and security scanning tools
-- **Template Repository**: Access to comprehensive template and component libraries
+- **Interactive Capabilities**: For conversational development guidance and tutoring
+- **Basic Code Generation**: For creating templates and scaffolding
+- **Development Tool Integration**: For orchestrating with specialized development tools
+- **Documentation Access**: For accessing development best practices and resources
 
 ## Contributing
 
-This tool is part of the broader Model Context Protocol Security initiative. Contributions are welcome, particularly:
-- New server templates and components
-- Enhanced security frameworks and validation tools
-- Improved code generation and scaffolding capabilities
-- Additional integration patterns and deployment guides
+This tool is part of the broader Model Context Protocol Security initiative. We welcome contributions that enhance the development expertise and teaching capabilities:
+- **Development Expertise**: Insights about MCP server development best practices
+- **Teaching Methods**: Improved approaches for educating users about server development
+- **Architecture Patterns**: Better patterns and practices for MCP server design
+- **Security Integration**: Enhanced security-by-design approaches and practices
+- **Tool Integration**: Better integration with development tools and frameworks
 
 ---
 
 *Part of the [Model Context Protocol Security](https://modelcontextprotocol-security.io/) initiative - A Cloud Security Alliance community project.*
+
